@@ -57,7 +57,7 @@
 
 ```sh
 # Clonar repositório
-HTTPS $ https://github.com/FNetoF/projeto-sds3.git
+HTTPS $ https://github.com/leonardoklinger/projeto-sds3.git
 SSH   $ git@github.com:leonardoklinger/projeto-sds3.git
 ```
 
