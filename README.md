@@ -47,7 +47,7 @@
 
 # Home Page
 
-![4](https://user-images.githubusercontent.com/60360540/133106952-521155ab-6c26-4a61-807a-c4ab9baf1cae.png)
+![4](https://user-images.githubusercontent.com/60077995/134080660-954f12a1-d8b7-40fb-83b3-23b2d3532acd.png)
 
 # Dashboard
 
